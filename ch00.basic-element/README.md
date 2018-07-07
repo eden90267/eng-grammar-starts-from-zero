@@ -173,5 +173,74 @@ C 補語，可以是名詞也可以是形容詞。
 
 ---
 
+## Chap06. 名詞前面的冠詞
+
+### 綜合運用 句構 + 詞性
+
+- S + V
+- S + V + O
+- S + V + C
+
+### 冠詞
+
+冠在名詞前面
+
+- I eat an apple.
+- I am a teacher.
+- I give her a book.
+- The handsome man works really hard.
+
+### 冠詞 a, an, the
+
+- a 一個 + 單數可數名詞
+
+  可數名詞：可以算出來的，杯子
+
+  不可數名詞：算不出來多少的，水、資訊
+
+  a 跟 the 不會同時在同一個名詞前
+
+- an 一個 + 開頭為母音 (a, e, i ,o, u) 的單數可數名詞
+- the 限定 + 名詞 (不受限)
+
+  限定：特定指定哪一個事物，或特定哪一群
+
+  可數名詞沒有冠詞，一律用複數 (沒有 a 跟 the)
+
+#### 舉例
+
+- Open the door. (原型動詞開頭就是命令句)
+- It is in the kitchen. (in 介系詞)
+- Knifes should be in kitchens.
+
+---
+
+## Chap07. 內容字與句構綜合運用 1
+
+### 詞性關係
+
+內容字：名詞、動詞、形容詞、副詞
+
+- The manager arrives. 
+- The manager holds a meeting.
+- The manager is a leader.
+- The manager is decisive.
+- The manager is a decisive leader.
+- The outstanding manager holds an important meeting.
+- The outstanding manager arrives immediately.
+- The outstanding manager quickly holds a very important meeting.
+- The outstanding manager is highly decisive.
+- The exceptionally outstanding manager arrives immediately.
+- The exceptionally outstanding manager quickly holds a very important meeting.
+- The exceptionally outstanding manager is highly decisive.
+
+文義為主，文法其次
+
+- I an surely a good student.
+- Surely, I am a good student.
+
+---
+
+## Chap08. 內容字與句構綜合運用 2
 
 
